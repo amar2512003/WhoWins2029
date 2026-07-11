@@ -1,6 +1,7 @@
 # 🗳️ WhoWins 2029
 
 An interactive machine learning-based election forecasting platform that predicts **state-wise Lok Sabha election winners** using historical election data. Built with **R Shiny**, **Random Forest**, **Plotly**, and **GeoJSON**, the application provides an intuitive dashboard for visualizing election predictions, historical trends, and party-wise seat distributions across India.
+BLOG: https://whowins2029.netlify.app/
 
 ---
 
